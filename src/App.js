@@ -323,7 +323,9 @@ class App extends Component {
           <div className="image">
 
           </div>
-          <div className="BLINGBLING"><strong>Rencontre les <span className="blink">Oeufs durs</span> de ta région </strong><br /><br />
+          <div className="BLINGBLING">
+            <img src="https://www.theworldsworstwebsiteever.com/images/new21.gif" alt="new"></img>
+            <strong>Rencontre les <span className="blink">Oeufs durs</span> de ta région </strong><br /><br />
             Organise des soirées omelettes avec des oeufs <br />du calibre de ton choix
             </div>
           <div className="majeur">
