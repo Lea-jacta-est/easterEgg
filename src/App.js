@@ -330,6 +330,7 @@ class App extends Component {
             <p>Confirme ton âge</p>
 
             <div>
+
               <div>
                 <input className="mb-6 " type="radio" id="dewey" name="drone" value="dewey" />
                 <label for="dewey">Je suis majeur</label>
@@ -337,7 +338,7 @@ class App extends Component {
 
               <div>
                 <input className="mt-3" type="radio" id="louie" name="drone" value="louie" />
-                <label for="louie">Je suis majeur</label>
+                <label for="louie">mi-neur mi-curieux</label>
               </div>
 
 
